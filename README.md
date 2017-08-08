@@ -17,7 +17,9 @@
 
 测试结果如下：
 
-![Image text](https://github.com/wenbochang888/gdufeInformation/blob/master/0.png)
+![Image text](https://github.com/wenbochang888/TiebaSign/blob/master/img/1.png)
+
+![Image text](https://github.com/wenbochang888/TiebaSign/blob/master/img/2.png)
 
 # crontab命令
 
@@ -29,7 +31,7 @@
 
 于2017年8月8日16:28:02测试成功
 
-![Image text](https://github.com/wenbochang888/gdufeInformation/blob/master/0.png)
+![Image text](https://github.com/wenbochang888/TiebaSign/blob/master/img/3.png)
   
 
 # 欢迎fork，star 
