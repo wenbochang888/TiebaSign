@@ -13,7 +13,9 @@
 
 具体代码如下：
 
-1: at 04:30 2: ./TiebaSign.py 3: ctrl+d 
+1: at 04:30 
+2: ./TiebaSign.py 
+3: ctrl+d 
 
 测试结果如下：
 
