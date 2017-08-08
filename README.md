@@ -14,7 +14,9 @@
 具体代码如下：
 
 1: at 04:30 
+
 2: ./TiebaSign.py 
+
 3: ctrl+d 
 
 测试结果如下：
@@ -27,8 +29,10 @@
 
 使用crontab命令直接放服务器，让他每天在零点执行脚本
 
-1:  crontab -e  
+1:  crontab -e
+
 2： 0 0 * * * /home/chang/TiebaSign.py
+
 3： 保存退出
 
 于2017年8月8日16:28:02测试成功
