@@ -2,9 +2,9 @@
 
 基于Python3.6 于2017年8月8日16:19:35在centos7上测试成功
 
-百度贴吧零点一键签到系统，此程序需要百度的cookies，直接放在本地下面就可以
+百度贴吧零点一键签到系统，此程序需要百度的cookies，直接在本地的当前文件创建一个cookies.txt文件，把cookies放进去即可。百度第一个cookies需要将: g改为; 具体看cookies
 
-具体如何获得cookies百度。（百度的加密看的不太懂，直接cookies方便）
+具体如何获得cookies百度。（document.cookie 获取的cookies一直报错，具体原因不详。我自己是抓包，抓到cookies的）
 
 
 # 测试
@@ -31,7 +31,7 @@
 
 1:  crontab -e
 
-2： 0 0 * * * /home/chang/TiebaSign.py
+2： 0  0  *  *  *  /home/chang/TiebaSignpp.py >> /home/chang/tieba.log 2>&1
 
 3： 保存退出
 
