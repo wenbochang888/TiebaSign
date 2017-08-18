@@ -1,4 +1,4 @@
-#!/home/chang/python3.6/bin/python3
+#!/home/chang/python3.6/bin/python3.6
 
 import requests
 import re
