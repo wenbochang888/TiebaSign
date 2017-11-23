@@ -43,3 +43,13 @@
 # 欢迎fork，star 
 
 每天抢首签，做15级大水逼不是梦想
+
+# 新需求
+
+奈何贴吧水笔们签到十分的快，而我的程序爬到那个签到那个按钮竟然要4s，左右。
+
+奈何我爆出了大招
+
+59 23 *  *  * sleep 57 && /home/python/TiebaSign.py >> /home/python/tieba.log 2>&1
+
+crontable 直接精确到秒，四秒之后就立马签到。
